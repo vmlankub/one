@@ -14,6 +14,7 @@
 * [Baidu](/baidu.html)
 * [Bing](/bing.html)
 * [Slay.one](/slay.html)
+* [360 So](/so.html)
 
 -----
 
